@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SeIntroGeom", "SeIntroGeom\SeIntroGeom.fsproj", "{515C7B20-24F5-4425-8F69-6FD13FFFB155}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{13161B20-2D13-435F-906D-FAF66F8DDB5F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Visualizer", "Visualizer\Visualizer.fsproj", "{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515C7B20-24F5-4425-8F69-6FD13FFFB155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515C7B20-24F5-4425-8F69-6FD13FFFB155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515C7B20-24F5-4425-8F69-6FD13FFFB155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515C7B20-24F5-4425-8F69-6FD13FFFB155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13161B20-2D13-435F-906D-FAF66F8DDB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13161B20-2D13-435F-906D-FAF66F8DDB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13161B20-2D13-435F-906D-FAF66F8DDB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13161B20-2D13-435F-906D-FAF66F8DDB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
