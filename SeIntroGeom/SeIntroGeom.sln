@@ -1,13 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SeIntroGeom", "SeIntroGeom\SeIntroGeom.fsproj", "{515C7B20-24F5-4425-8F69-6FD13FFFB155}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{13161B20-2D13-435F-906D-FAF66F8DDB5F}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Visualizer", "Visualizer\Visualizer.fsproj", "{6556A422-ABE3-4D4D-82C6-1C91C1C3D168}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{57DC35D6-ED4F-4535-A153-3714A661D8B9}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
